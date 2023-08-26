@@ -1,0 +1,5 @@
+18/08/23
+
+La cadena de alquiler de peliculas Blockbuster necesita un sistema para la gestión de sus transacciones. Sabemos que la cadena tiene locales, cada uno de los locales tiene dirección (compuesta por calle, altura y ciudad) y su propia lista de clientes. De cada cliente sabemos el nombre, apellido y dirección, y un identificador unico de número de cliente, compuesto por 6 numeros y dos letras. Cada local tiene una lista de peliculas sin prestar y una lista de prestamos. De cada prestamo sabemos que hay un cliente y una pelicula, como también una fecha de prestamo y una cantidad de dias.
+Ademas de cada pelicula sabemos el titulo, el genero (puede ser Acción, Drama o Suspenso) y la duración expresada en minutos.
+Realizar el diagrama UML y la implementacion en código.
