@@ -4,4 +4,11 @@ public class Direccion
   private int altura;
   private string ciudad;
 
+    public Direccion()
+    {
+        this.calle = calle;
+        this.altura = altura;
+        this.ciudad = ciudad;
+
+    }
 }
