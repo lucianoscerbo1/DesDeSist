@@ -1,0 +1,8 @@
+Una plataforma de aplicaciones llamada Steam tiene un catálogo de distintos tipos de producto.
+Sabemos que cada uno de estos productos pueden ser JUEGOS o SOFTWARE en general. Cada uno de ellos tiene un nombre, un precio, una categoría, está (o no) en acceso anticipado, una valoración numérica, y una colección de reseñas.
+De cada reseña sabemos tiene un usuario autor, un título, un texto, una fecha, y si es positiva o negativa.
+
+Hay ciertos juegos que registran una edad mínima para poder jugarlos.
+Las categorías de juego existentes son ACCION, PUZZLE, SIMULACIÓN
+Las categorías de software existentes son DISEÑO, SOCIAL, ADMINISTRATIVO
+En nuestra plataforma tenemos usuarios, de los que sabemos su nombre, saldo en cuenta, edad, y la colección de aplicaciones que tienen.

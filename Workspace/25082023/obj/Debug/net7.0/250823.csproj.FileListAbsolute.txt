@@ -1,0 +1,14 @@
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.AssemblyInfoInputs.cache
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.AssemblyInfo.cs
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\bin\Debug\net7.0\250823.exe
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\bin\Debug\net7.0\250823.deps.json
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\bin\Debug\net7.0\250823.runtimeconfig.json
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\bin\Debug\net7.0\250823.dll
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\bin\Debug\net7.0\250823.pdb
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.dll
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\refint\250823.dll
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.pdb
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\250823.genruntimeconfig.cache
+C:\Users\Scerbo\Documents\Workspace\UML-CLUB\obj\Debug\net7.0\ref\250823.dll

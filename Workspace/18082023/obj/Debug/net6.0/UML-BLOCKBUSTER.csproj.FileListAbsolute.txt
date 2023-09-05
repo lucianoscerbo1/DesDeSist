@@ -1,0 +1,5 @@
+C:\Users\Scerbo\Documents\Workspace\UML-BLOCKBUSTER\obj\Debug\net6.0\UML-BLOCKBUSTER.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Documents\Workspace\UML-BLOCKBUSTER\obj\Debug\net6.0\UML-BLOCKBUSTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scerbo\Documents\Workspace\UML-BLOCKBUSTER\obj\Debug\net6.0\UML-BLOCKBUSTER.AssemblyInfoInputs.cache
+C:\Users\Scerbo\Documents\Workspace\UML-BLOCKBUSTER\obj\Debug\net6.0\UML-BLOCKBUSTER.AssemblyInfo.cs
+C:\Users\Scerbo\Documents\Workspace\UML-BLOCKBUSTER\obj\Debug\net6.0\UML-BLOCKBUSTER.csproj.CoreCompileInputs.cache
