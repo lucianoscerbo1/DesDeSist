@@ -1,0 +1,14 @@
+C:\Users\Scerbo\Documents\Workspace\01092023\bin\Debug\net7.0\01092023.exe
+C:\Users\Scerbo\Documents\Workspace\01092023\bin\Debug\net7.0\01092023.deps.json
+C:\Users\Scerbo\Documents\Workspace\01092023\bin\Debug\net7.0\01092023.runtimeconfig.json
+C:\Users\Scerbo\Documents\Workspace\01092023\bin\Debug\net7.0\01092023.dll
+C:\Users\Scerbo\Documents\Workspace\01092023\bin\Debug\net7.0\01092023.pdb
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.AssemblyInfoInputs.cache
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.AssemblyInfo.cs
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.dll
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\refint\01092023.dll
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.pdb
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\01092023.genruntimeconfig.cache
+C:\Users\Scerbo\Documents\Workspace\01092023\obj\Debug\net7.0\ref\01092023.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Documents\\Workspace\\01092023\\01092023.csproj": {}
+    "C:\\Users\\Scerbo\\Documents\\Workspace\\01092023\\01092023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Documents\\Workspace\\01092023\\01092023.csproj": {
+    "C:\\Users\\Scerbo\\Documents\\Workspace\\01092023\\01092023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Documents\\Workspace\\01092023\\01092023.csproj",
+        "projectUniqueName": "C:\\Users\\Scerbo\\Documents\\Workspace\\01092023\\01092023.csproj",
         "projectName": "01092023",
-        "projectPath": "C:\\Users\\Alumno\\Documents\\Workspace\\01092023\\01092023.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Documents\\Workspace\\01092023\\obj\\",
+        "projectPath": "C:\\Users\\Scerbo\\Documents\\Workspace\\01092023\\01092023.csproj",
+        "packagesPath": "C:\\Users\\Scerbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scerbo\\Documents\\Workspace\\01092023\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Scerbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Scerbo\\Desktop\\ExpenseManager\\packages\\Bunifu.Charts.WinForms.1.1.5": {},
+          "C:\\Users\\Scerbo\\Desktop\\ExpenseManager\\packages\\Bunifu.UI.WinForms.5.3.0": {}
         },
         "frameworks": {
           "net7.0": {
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
